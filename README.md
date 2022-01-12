@@ -1,3 +1,6 @@
 # quicksandsort-master
 Quicksort algoritmus v jazyce C
-Inspirace shorturl.at/grEV6
+
+[Inspirace](http://shorturl.at/grEV6) 
+>**Vizualizace algoritmu**
+![Vizualizace algoritmu](https://upload.wikimedia.org/wikipedia/commons/f/fe/Quicksort.gif) 

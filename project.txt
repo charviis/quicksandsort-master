@@ -1,0 +1,1 @@
+1. Nahrazení předem daných hodnot pomocí generace náhodných čísel
